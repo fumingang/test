@@ -14,6 +14,8 @@ public class utilities {
 	
 	public static void main(String[] args) {
 		DateFormat df = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+		
+		System.out.println("test1");
 /*		
 		Double x = 3.0;
 		Double y = 1.0;
