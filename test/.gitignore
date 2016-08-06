@@ -1,1 +1,15 @@
 /bin/
+/input
+/.settings
+/input/distance_matrix.csv
+/input/link_list.csv
+/input/links.csv
+/input/next_node_matrix.csv
+/input/node_list.csv
+/input/nodes
+/input/nodes.csv
+/input/orders
+/input/path_matrix.csv
+/input/segments.csv
+/.DS_Store
+/src/.DS_Store
