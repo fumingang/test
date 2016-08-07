@@ -16,7 +16,7 @@ public class utilities {
 		DateFormat df = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 		
 		System.out.println("test1");
-		System.out.println("test2");
+		System.out.println("test0");
 		
 /*		
 		Double x = 3.0;
